@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisDemo.InMemory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed35ff2eb6907dbe395a2a25b5b4fb97c7f522c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e972759c4cf79ff23a7a29d12e3ecffeab9b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisDemo.InMemory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisDemo.InMemory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
